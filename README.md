@@ -8,7 +8,7 @@
 
 ## 使用技術
 - OpenPose
-- TensorFlow / LSTM
+- Keras / LSTM
 - OpenCV / pandas / numpy / matplotlib
 
 ## 実行環境
