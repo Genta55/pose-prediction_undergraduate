@@ -1,0 +1,2 @@
+# pose-prediction_undergraduate
+学部時代におこなったLSTMによる骨格座標の時系列予測
